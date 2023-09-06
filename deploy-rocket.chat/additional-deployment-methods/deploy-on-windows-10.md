@@ -1,4 +1,7 @@
-# Deploy on Windows 10
+---
+title: Deploy on Windows 10
+category: 64f8aad4c52cef03f05b1b81
+---
 
 ## Preparation Steps
 

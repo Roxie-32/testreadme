@@ -1,4 +1,7 @@
-# Deploy with Ubuntu
+---
+title: Deploy with Ubuntu
+category: 64f8aad4c52cef03f05b1b81
+---
 
 {% hint style="success" %}
 **Rocket.Chat 6.0** is our most secure and scalable version yet. It includes 10 security patches, 9 brand-new features, and 25+ overall platform enhancements. Visit our [website](https://www.rocket.chat/six) to learn more about what’s new in this latest version. [Update now](https://docs.rocket.chat/deploy/updating-rocket.chat)!

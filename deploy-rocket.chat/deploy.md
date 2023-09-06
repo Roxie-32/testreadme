@@ -22,7 +22,7 @@ In addition, snaps are a convenient way to rapidly deploy a Rocket.Chat instance
 
 [**Update Rocket.Chat**](updating-rocket.chat.md)**:** Learn how to update the version of your Rocket.Chat workspace to the latest or your preferred release. For additional information about the releases, kindly visit our [release page](https://github.com/RocketChat/Rocket.Chat/releases).
 
-[**Scaling Rocket.Chat with Microservices**](scaling-rocket.chat/)**:** Ensure optimal performance of your Rocket.Chat workspace even with thousands of users and more by monitoring and scaling it. Deploy Rocket.Chat using microservices or several smaller components, each focusing on a single feature of Rocket.Chat.
+[**Scaling Rocket.Chat with Microservices**](scaling-rocket.chat)**:** Ensure optimal performance of your Rocket.Chat workspace even with thousands of users and more by monitoring and scaling it. Deploy Rocket.Chat using microservices or several smaller components, each focusing on a single feature of Rocket.Chat.
 
 ### **Additional Deployments**
 

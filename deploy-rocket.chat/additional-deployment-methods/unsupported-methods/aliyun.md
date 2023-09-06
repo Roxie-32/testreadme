@@ -1,8 +1,8 @@
 ---
-description: Deploying Rocket.Chat on Aliyun
+title: Aliyun
+category: 64f8aad4c52cef03f05b1b81
 ---
 
-# Aliyun
 
 You can install Rocket.Chat to Ubuntu VPS on Aliyun.
 

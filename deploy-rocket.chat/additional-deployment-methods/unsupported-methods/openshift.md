@@ -1,8 +1,8 @@
 ---
-description: Deploying Rocket.Chat on OpenShift
+title: OpenShift
+category: 64f8aad4c52cef03f05b1b81
 ---
 
-# OpenShift
 
 This guide covers how to host Rocket.Chat on OpenShift Online Next Gen.
 

@@ -1,4 +1,8 @@
-# Plug-in Deployments
+---
+title: Plug-in Deployments
+category: 64f8aad4c52cef03f05b1b81
+---
+
 
 You can integrate Rocket.Chat (or LiveChat) features into popular applications via Plug-ins.
 

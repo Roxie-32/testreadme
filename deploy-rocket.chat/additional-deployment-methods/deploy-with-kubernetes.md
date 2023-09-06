@@ -1,8 +1,8 @@
 ---
-description: Deploy on a kubernetes cluster using our official helm chart.
+title: Deploy with Kubernetes
+category: 64f8aad4c52cef03f05b1b81
 ---
 
-# Deploy with Kubernetes
 
 Using the [Helm](https://helm.sh/) package manager, the [helm chart](https://github.com/RocketChat/helm-charts/tree/master/rocketchat) bootstraps a Rocket.Chat deployment on a [Kubernetes](https://kubernetes.io/) cluster. It provisions a fully featured Rocket.Chat installation. Additionally, this chart supports the scaling of Rocket.Chat for increased server capacity and high availability (requires enterprise license).
 

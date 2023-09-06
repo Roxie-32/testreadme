@@ -1,8 +1,9 @@
 ---
-description: Run Rocket.Chat on your easy to use personal device
+title: Syncloud
+category: 64f8aad4c52cef03f05b1b81
 ---
 
-# Syncloud
+
 
 * Full control self hosting solution
 * 100% [Open source](https://github.com/syncloud/platform)

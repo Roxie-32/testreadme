@@ -1,4 +1,7 @@
-# Deploy on Debian
+---
+title: Deploy on Debian
+category: 64f8aad4c52cef03f05b1b81
+---
 
 ## Preparation Steps
 

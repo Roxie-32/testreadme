@@ -1,8 +1,8 @@
 ---
-description: Deploying Rocket.Chat on Galaxy
+title:  Galaxy
+category: 64f8aad4c52cef03f05b1b81
 ---
 
-# Galaxy
 
 Galaxy is a platform-as-a-service built specifically for Meteor apps. Built using the latest Docker and AWS cloud infrastructure.
 

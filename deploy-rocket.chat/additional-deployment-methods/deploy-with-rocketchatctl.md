@@ -1,4 +1,7 @@
-# Deploy with RocketchatCTL
+---
+title: Deploy with RocketchatCTL
+category: 64f8aad4c52cef03f05b1b81
+---
 
 Rocketchatctl is a powerful command-line tool written in bash designed to simplify the installation, configuration, and maintenance of Rocket.Chat servers on Linux hosts. It automates the entire setup process, including installing dependencies, configuring repositories, setting up directories, permissions, and managing systemd services for both Node.js and MongoDB.&#x20;
 

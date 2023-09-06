@@ -1,8 +1,8 @@
 ---
-description: Deploying Rocket.Chat on Cloudron.io
+title: Cloudron.io
+category: 64f8911fcc21940baad90c0e
 ---
 
-# Cloudron.io
 
 Cloudron is a complete solution for running apps on your server and keeping them up-to-date and secure.
 

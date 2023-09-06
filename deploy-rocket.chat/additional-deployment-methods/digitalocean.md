@@ -1,4 +1,8 @@
-# Deploy with Digital Ocean
+---
+title:  Deploy with Digital Ocean
+category: 64f8aad4c52cef03f05b1b81
+---
+
 
 Rocket.Chat offers a seamless and user-friendly solution for setting up your own chat platform on Digital Ocean with just a single click. With the [1-Click install](https://marketplace.digitalocean.com/apps/rocket-chat?action=deploy\&refcode=1940fe28bd31) from the Digital Ocean marketplace, you can effortlessly launch and configure Rocket.Chat, empowering your team to communicate and collaborate efficiently.
 

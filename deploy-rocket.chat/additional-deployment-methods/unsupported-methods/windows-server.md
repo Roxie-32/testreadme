@@ -1,8 +1,8 @@
 ---
-description: Rocket.Chat Windows Installation Guide
+title: Windows Server
+category: 64f8aad4c52cef03f05b1b81
 ---
 
-# Windows Server
 
 _Note: This is a community supported installation method. You can discuss about this in the_ [_forum thread_](https://forums.rocket.chat/t/broken-windows-server-2012-r2-installation-guide/413/2)_._
 

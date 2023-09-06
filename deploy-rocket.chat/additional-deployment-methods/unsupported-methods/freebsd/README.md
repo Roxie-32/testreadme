@@ -1,8 +1,8 @@
 ---
-description: Deploying Rocket.Chat on FreeBSD
+title: FreeBSD
+category: 64f8aad4c52cef03f05b1b81
 ---
 
-# FreeBSD
 
 _Note: This is a community supported installation method. You can discuss about this in the_ [_forum thread_](https://forums.rocket.chat/t/freebsd-installation-guide/651)_._
 

@@ -1,8 +1,8 @@
 ---
-description: Community Supported Installation Methods
+title: Unsupported Methods
+category: 64f8aad4c52cef03f05b1b81
 ---
 
-# Unsupported Methods
 
 {% hint style="warning" %}
 The installation methods under this section are not officially supported by Rocket.Chat, so we can't assure that these are working or always up to date.

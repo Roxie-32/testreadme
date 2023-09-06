@@ -1,4 +1,8 @@
-# Deploy on Google Compute Engine
+---
+title: Deploy on Google Compute Engine
+category: 64f8aad4c52cef03f05b1b81
+---
+
 
 Google Compute Engine (GCE) is a scalable and flexible Infrastructure as a Service (IaaS) solution from the Google Cloud Platform. Deploying Rocket.Chat on GCE gives you a robust and reliable communication platform for your organization. In this guide, you'll learn step-by-step through deploying Rocket.Chat with Google Compute Engine.
 

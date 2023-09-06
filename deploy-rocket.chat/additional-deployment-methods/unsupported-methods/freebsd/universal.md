@@ -1,4 +1,7 @@
-# Deploying Rocket.Chat Server Binaries on a FreeBSD system
+---
+title: Deploying Rocket.Chat Server Binaries on a FreeBSD system
+category: 64f8aad4c52cef03f05b1b81
+---
 
 **Note: This deployment method is not officially supported by Rocket.Chat, you might need to build your own or find a community version of the tar file.**
 
