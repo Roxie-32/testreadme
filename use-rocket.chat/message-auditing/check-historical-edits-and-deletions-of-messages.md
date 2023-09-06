@@ -1,3 +1,7 @@
+---
+title: Check Historical Edits and Deletions of Messages
+category: 64f88e0a00d6a00045daf3e5
+---
 # Check Historical Edits and Deletions of Messages
 
 Rocket.Chat lets you view any message history, including modified or removed messages.

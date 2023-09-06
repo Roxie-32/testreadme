@@ -1,3 +1,7 @@
+---
+title: Roles in Rocket.Chat
+category: 64f8911fcc21940baad90c0e
+---
 # Roles in Rocket.Chat
 
 Roles and permissions are integral to managing access in any digital workspace. Rocket.Chat employs a comprehensive role-based system for secure and efficient workspace management. This system allows administrators to assign roles, each with a specific set of [permissions](../use-rocket.chat/workspace-administration/permissions/), to control user actions and access levels within the workspace.

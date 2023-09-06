@@ -1,6 +1,6 @@
 ---
-title: Message Auditing
-category: 64f88e0a00d6a00045daf3e5
+title: Setup and Configure
+category: 64f8911fcc21940baad90c0e
 ---
 
 <figure><img src="../../.gitbook/assets/2021-06-10_22-31-38 (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (3) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (4) (1) (1) (1) (1) (1) (1) (1) (41).jpg" alt=""><figcaption></figcaption></figure>

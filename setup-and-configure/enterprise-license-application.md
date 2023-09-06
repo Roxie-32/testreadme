@@ -1,3 +1,7 @@
+---
+title: Enterprise License Application
+category: 64f8911fcc21940baad90c0e
+---
 # Enterprise License Application
 
 &#x20;In the realm of open-source communication, Rocket.Chat, has always been at the forefront of providing secure and scalable solutions. To fully appreciate Rocket.Chat's breadth and depth, you are encouraged to try out the enterprise version. Having a Rocket.Chat License unlocks additional functionality. [Check out our plans](https://www.rocket.chat/pricing). &#x20;
